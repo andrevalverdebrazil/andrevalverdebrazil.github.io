@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "image": "assets/images/index/technologies/go.png",
+      "title": "Golang"
+    },
+    
+    {
+      "image": "assets/images/index/technologies/python.png",
+      "title": "Python"
+    },
+    {
+      "image": "assets/images/index/technologies/java.png",
+      "title": "Java"
+    },
+    {
+      "image": "assets/images/index/technologies/node.js.png",
+      "title": "Node.js"
+    },
+    {
+      "image": "assets/images/index/technologies/flutter.png",
+      "title": "Flutter"
+    },
+    {
+      "image": "assets/images/index/technologies/docker.png",
+      "title": "Docker"
+    },
+    {
+      "image": "assets/images/index/technologies/aws.png",
+      "title": "AWS"
+    },
+    {
+      "image": "assets/images/index/technologies/git.png",
+      "title": "Git"
+    },
+    {
+      "image": "assets/images/index/technologies/postgresql.png",
+      "title": "Postgresql"
+    },
+    {
+      "image": "assets/images/index/technologies/mongodb.png",
+      "title": "MongoDB"
+    },
+    
+    {
+      "image": "assets/images/index/technologies/linux.png",
+      "title": "Linux"
+    },
+    {
+      "image": "assets/images/index/technologies/vim.png",
+      "title": "Vim"
+    }
+  ]
+}

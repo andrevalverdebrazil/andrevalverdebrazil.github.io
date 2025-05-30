@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "url": "#",
+      "image": "/assets/images/projects/embreve.webp",
+      "title": "Em breve",
+      "description": "Em breve"
+    },
+    {
+      "url": "https://youtu.be/qmvzueH5ysU",
+      "image": "/assets/images/videos/paraquemeolinux.webp",
+      "title": "Para quem é o Linux?",
+      "description": "Neste vídeo, vamos explorar as características do Linux e como ele se tornou uma escolha popular entre os desenvolvedores e entusiastas da tecnologia."
+    }
+  ]
+}
