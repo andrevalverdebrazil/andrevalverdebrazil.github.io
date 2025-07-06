@@ -1,53 +1,67 @@
 {
   "items": [
     {
-      "image": "assets/images/index/technologies/go.png",
-      "title": "Golang"
-    },
-    
-    {
-      "image": "assets/images/index/technologies/python.png",
-      "title": "Python"
-    },
-    {
-      "image": "assets/images/index/technologies/java.png",
+      "image": "assets/images/index/technologies/java.webp",
       "title": "Java"
     },
     {
-      "image": "assets/images/index/technologies/node.js.png",
-      "title": "Node.js"
+      "image": "assets/images/index/technologies/spring.webp",
+      "title": "Spring"
     },
     {
-      "image": "assets/images/index/technologies/flutter.png",
-      "title": "Flutter"
+      "image": "assets/images/index/technologies/quarkus.webp",
+      "title": "Quarkus"
     },
     {
-      "image": "assets/images/index/technologies/docker.png",
+      "image": "assets/images/index/technologies/python.webp",
+      "title": "Python"
+    },
+    {
+      "image": "assets/images/index/technologies/angular.webp",
+      "title": "Angular"
+    },
+    {
+      "image": "assets/images/index/technologies/kafka.webp",
+      "title": "Kafka"
+    },
+    {
+      "image": "assets/images/index/technologies/docker.webp",
       "title": "Docker"
     },
     {
-      "image": "assets/images/index/technologies/aws.png",
+      "image": "assets/images/index/technologies/aws.webp",
       "title": "AWS"
     },
     {
-      "image": "assets/images/index/technologies/git.png",
+      "image": "assets/images/index/technologies/git.webp",
       "title": "Git"
     },
     {
-      "image": "assets/images/index/technologies/postgresql.png",
+      "image": "assets/images/index/technologies/go.webp",
+      "title": "Golang"
+    },
+    {
+      "image": "assets/images/index/technologies/flutter.webp",
+      "title": "Flutter"
+    },
+    {
+      "image": "assets/images/index/technologies/postgresql.webp",
       "title": "Postgresql"
     },
     {
-      "image": "assets/images/index/technologies/mongodb.png",
+      "image": "assets/images/index/technologies/mongodb.webp",
       "title": "MongoDB"
     },
-    
     {
-      "image": "assets/images/index/technologies/linux.png",
+      "image": "assets/images/index/technologies/linux.webp",
       "title": "Linux"
     },
     {
-      "image": "assets/images/index/technologies/vim.png",
+      "image": "assets/images/index/technologies/bash.webp",
+      "title": "Bash"
+    },
+    {
+      "image": "assets/images/index/technologies/vim.webp",
       "title": "Vim"
     }
   ]

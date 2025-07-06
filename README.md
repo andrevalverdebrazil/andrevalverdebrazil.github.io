@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/andrepixel/andrepixel.github.io/blob/main/Banner_github_project.webp">
+  <img src="https://github.com/andrevalverdebrazil/andrevalverdebrazil.github.io/blob/main/Banner_github_project.webp">
 </p>
 
 ## Seja bem vindo ao meu portifólio
